@@ -1,8 +1,4 @@
-[![Powered by OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb)](https://www.orcarouter.ai/ref/ref_95142f5b1fe0d110bea1)
-
 为了更好的阅读请前往[GitBook](https://xhunmon.github.io/VABlog/)  
-
-**免费可撸大模型：[OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb) ，包括文本、图片、视频、语音等模型可用。**
 
 # 一、前言
 这里整理有着丰富的音视频开发的学习资源、开发工具、优秀书籍、教程和开源项目，旨在帮助开发者和爱好者更好地学习、实践和工作。而下图是开发处理的过程：
